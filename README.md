@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav Kulkarni</h1>
 <h3 align="center">Building seamless digital experiences from front-end to back-end with cutting-edge technologies. I am Full Stack Developer</h3>
-
-- 🔭 I’m currently working on [Freelancing-platform Proconnect](https://github.com/Praxxav/freelancing-platform)
-
-- 👨‍💻 All of my projects are available at [http://pranavkulkarni.s3-website.ap-south-1.amazonaws.com/](http://pranavkulkarni.s3-website.ap-south-1.amazonaws.com/)
-
-- 📫 How to reach me **kulkarnipranav901@gmail.com**
+-👨‍💻Al of📫 How to reach me **kulkarnipranav901@gmail.com**
 
 - 📄 Know about my experiences [http://pranavkulkarni.s3-website.ap-south-1.amazonaws.com/](http://pranavkulkarni.s3-website.ap-south-1.amazonaws.com/)
 
