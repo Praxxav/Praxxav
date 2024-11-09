@@ -1,4 +1,4 @@
-# Hi there, I'm Pranav Gulkarni! 👋
+# Hi there, I'm Pranav Kulkarni! 👋
 
  Full-Stack Developer with experience building scalable and user-friendly applications. I enjoy tackling complex problems and creating solutions that are both efficient and elegant. 
 
