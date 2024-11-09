@@ -10,7 +10,7 @@
 
 ## 📈 GitHub Stats
 
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?praxxav=your-github&show_icons=true&theme=radical)
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=praxxav&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 - **LinkedIn**: (https://www.linkedin.com/in/pranav-kulkarni-316721248/))
