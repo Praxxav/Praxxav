@@ -19,10 +19,6 @@ I'm a passionate Full-Stack Developer with experience building scalable and user
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-
-## 📫 Connect with Me
-- **LinkedIn**:(https://www.linkedin.com/in/pranav-kulkarni-316721248/))
-
 - **Email**: kulkarnipranav901@gmail.com
 
 Looking forward to collaborating and building something amazing together! 🌟
