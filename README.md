@@ -4,7 +4,7 @@
 I'm a passionate Full-Stack Developer with experience building scalable and user-friendly applications. I enjoy tackling complex problems and creating solutions that are both efficient and elegant.
 </p>
 
-## 🔧 Tech Stack
+<h1 align="center"> Tech Stack </h1>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
