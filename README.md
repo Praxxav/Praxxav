@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Pranav Kulkarni! 👋</h1>
+<h1 align="center">Hey, I'm Pranav Kulkarni! 👋</h1>
 
 <p align="center">
 I'm a passionate Full-Stack Developer with experience building scalable and user-friendly applications. I enjoy tackling complex problems and creating solutions that are both efficient and elegant.
@@ -54,6 +54,6 @@ I'm a passionate Full-Stack Developer with experience building scalable and user
   <img src="https://komarev.com/ghpvc/?username=praxxav&style=for-the-badge" alt="Profile views" />
 </p>
 
-<p align="center">- **Email**: kulkarnipranav901@gmail.com</p>
+<p align="center">- #Email: kulkarnipranav901@gmail.com</p>
 
 <p align="center">Looking forward to collaborating and building something amazing together! 🌟</p>
