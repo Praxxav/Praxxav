@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💫 About Me:
-As a **DevOps Engineer** with hands-on experience in cloud infrastructure, container orchestration, and system reliability, I specialize in building and maintaining scalable, observable, and resilient infrastructure.
+As a **DevOps Engineer & Full Stack Engineer** with hands-on experience in Building and scaling cloud infrastructure, container orchestration, and system reliability, I specialize in building and maintaining scalable, observable, and resilient infrastructure.
 
 My experience spans deploying and managing backend services on AWS, configuring Nginx reverse proxies, implementing CI/CD pipelines, and setting up monitoring stacks using Prometheus and Grafana.
 
